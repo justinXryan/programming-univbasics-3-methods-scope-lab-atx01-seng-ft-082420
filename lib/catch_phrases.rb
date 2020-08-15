@@ -13,3 +13,5 @@ def link
   alone = "It's Dangerous To Go Alone! Take This."
   puts alone 
 end
+
+def 
