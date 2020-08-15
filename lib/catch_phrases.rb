@@ -14,4 +14,5 @@ def link
   puts alone 
 end
 
-def 
+def all_phrases
+  
